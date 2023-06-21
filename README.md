@@ -1,6 +1,6 @@
 # Micropython + lvgl
 
-**Micropython bindings to LVGL for Embedded devices, Unix and JavaScript**
+**Micropython bindings to LVGL v9.0.0 for Embedded devices, Unix and JavaScript**
 
 [![Build lv_micropython unix port](https://github.com/lvgl/lv_micropython/actions/workflows/unix_port.yml/badge.svg)](https://github.com/lvgl/lv_micropython/actions/workflows/unix_port.yml)
 [![Build lv_micropython stm32 port](https://github.com/lvgl/lv_micropython/actions/workflows/stm32_port.yml/badge.svg)](https://github.com/lvgl/lv_micropython/actions/workflows/stm32_port.yml)
